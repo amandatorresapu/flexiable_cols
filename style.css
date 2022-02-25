@@ -1,0 +1,23 @@
+.row {
+  display: flex;
+}
+.col {
+  padding: 20px;
+  margin: 10px;
+  flex: 1;
+  background-color: lightcyan;
+}
+
+.col-2 {
+  padding: 20px;
+  margin: 10px;
+  flex: 2;
+  background-color: lightcyan;
+}
+
+.col-3 {
+  padding: 20px;
+  margin: 10px;
+  flex: 3;
+  background-color: lightcyan;
+}
